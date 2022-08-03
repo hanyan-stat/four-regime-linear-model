@@ -1,5 +1,4 @@
-# File Name: sim1.R
-# AR settings
+# File Name: simulation.R
 #
 # Latest Update: 
 #   
